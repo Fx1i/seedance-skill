@@ -1,4 +1,13 @@
-# Story to Storyboard Skill
+---
+name: seedance
+description: 将自然语言剧情描述自动拆分成适合AI视频生成的片段（考虑15秒时长限制），生成结构化分镜稿和优化的AI提示词
+compatibility: opencode
+metadata:
+  category: video-generation
+  language: zh-CN
+---
+
+# Seedance
 
 ## 概述
 
